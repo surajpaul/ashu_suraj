@@ -70,7 +70,7 @@
     font-size: 20px;
     line-height: 1;
 
-    opacity: .75;
+    opacity: .2;
     color: white;
 
     -webkit-font-smoothing: antialiased;
@@ -89,14 +89,14 @@
 .slick-prev:before
 {
     font-family: "Font Awesome 5 Free";
-   content: url('../img/slider/left-arrow.svg');
+   content: url('../img/slider/left-arrow.png');
    display: inline-block;
    font-size: 40px;
     color: #58585a !important;
    vertical-align: middle;
    font-weight: 700;
-   margin-left: -15px;
-   margin-top: -20px;
+   margin-left: -35px;
+   margin-top: 0px;
 }
 [dir='rtl'] .slick-prev:before
 {
