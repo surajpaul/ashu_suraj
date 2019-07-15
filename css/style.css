@@ -244,6 +244,9 @@ ul li{
 	.media-ml-auto{
 		margin-left: auto;
 	}
+	.media-ml-3{
+		margin-left: 20px;
+	}
 	.media-mb-5{
 		margin-bottom: 40px;
 	}
@@ -375,4 +378,14 @@ ul li{
 #map{
 	width: auto;
 	height: 350px;
+}
+.bold{
+	font-weight: bold !important;
+}
+.skills td{
+	padding-right: 25px;
+	font-size: 14px;
+}
+.card{
+	box-shadow: none;
 }
