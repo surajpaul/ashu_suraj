@@ -13,6 +13,9 @@
 .violet-btn{
 	background-color: #a53692;color: #fff !important;text-transform: capitalize;border-radius: 30px;
 }
+a{
+	text-decoration: none !important;
+}
 .font-11{
 	font-size: 11px;
 }
@@ -98,8 +101,17 @@ h3{
 .bg-yellow{
 	background: #efd63b;
 }
+.bg-orange{
+	background: #f97136;
+}
+.bg-mix{
+	background: #446be8;
+}
 .banner-padding{
 	padding-left: 140px;padding-top: 160px;padding-right: 140px;padding-bottom: auto;
+}
+.banner-padding-2{
+	padding-left: 140px;padding-top: 160px;padding-right: 20px;padding-bottom: auto;
 }
 .rotate {
 	-webkit-transform: rotate(-90deg);
@@ -352,6 +364,7 @@ ul li{
     font-weight: bold;
     border-bottom: 2px solid #4fba34 !important;
     padding-left: 0px;
+    font-size:14px;
 }
 .nav-pills .nav-link{
 	padding-left: 0px !important;
@@ -388,4 +401,19 @@ ul li{
 }
 .card{
 	box-shadow: none;
+}
+.justify{
+	text-align: justify;
+}
+.hover-menu4:hover #a-option{
+	color: #fff !important;
+}
+.hover-menu3:hover #a-option{
+	color: #fff !important;
+}
+.hover-menu2:hover #a-option{
+	color: #fff !important;
+}
+.hover-menu1:hover #a-option{
+	color: #fff !important;
 }
