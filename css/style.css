@@ -1,3 +1,6 @@
+html{
+	scroll-behavior: smooth;
+}
 .bg-tree{
 	background-image: url('../img/Tree.png');background-repeat: no-repeat;background-size: 110%;background-position: 20px 80px;
 }
