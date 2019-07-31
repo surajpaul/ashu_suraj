@@ -320,6 +320,9 @@ ul li{
 	.media-right{
 		padding-right: 0px !important;
 	}
+	.media-ml-3{
+		margin-left: 1rem!important;
+	}
 }
 /*header css*/
 .main-menu{width: 100%; height: 100%; opacity: 0; visibility: hidden;}
